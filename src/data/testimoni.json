@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "productId": 3,
+    "nama": "Andi",
+    "rating": 5,
+    "ulasan": "Produknya enak banget dan cepat sampai!"
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "nama": "Siti",
+    "rating": 4,
+    "ulasan": "Pelayanan cepat dan bumbu sangat khas."
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "nama": "Budi",
+    "rating": 4,
+    "ulasan": "Harga terjangkau dan rasa mantap!"
+  },
+  {
+    "id": 4,
+    "productId": 2,
+    "nama": "Lina",
+    "rating": 5,
+    "ulasan": "Rekomendasi buat yang suka masak!"
+  },
+  {
+    "id": 5,
+    "productId": 1,
+    "nama": "Rizal",
+    "rating": 5,
+    "ulasan": "Top markotop, wajib coba!"
+  }
+]

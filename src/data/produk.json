@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nama": "Sate Madura",
+    "harga": 15000,
+    "deskripsi": "Sate ayam dengam bumbu kacang khas madura yang enak",
+    "kategori": "Makan Berat",
+   "gambar": "/img/products/makan5.jpg",
+    "stok": 25,
+    "is_unggulan": false
+  },
+  {
+    "id": 2,
+    "nama": "Batagor",
+    "harga": 15000,
+    "deskripsi": "Batagor dengan isian yang bercampur dengan ikan, dan komponen lain dan saos kacang yang enak",
+    "kategori": "Jajanan",
+    "gambar": "/img/products/makan6.jpg",
+    "stok": 15,
+    "is_unggulan": true
+  },
+  {
+    "id": 3,
+    "nama": "Dimsun",
+    "harga": 20000,
+    "deskripsi": "Dimsum ayam dengan chili oil",
+    "kategori": "Jajanan",
+    "gambar": "/img/products/makan1.jpg",
+    "stok": 30,
+    "is_unggulan": false
+  },
+  {
+    "id": 4,
+    "nama": "Nasi Goreng",
+    "harga": 25000,
+    "deskripsi": "Nasi goreng spesial",
+    "kategori": "Makan Berat",
+    "gambar": "/img/products/makan2.jpg",
+    "stok": 20,
+    "is_unggulan": false
+  },
+  {
+    "id": 5,
+    "nama": "Pempek",
+    "harga": 20000,
+    "deskripsi": "Pempek ikan tenggiri menggunakan kuah cuko yang khas",
+    "kategori": "Jajanan",
+    "gambar": "/img/products/makan3.jpg",
+    "stok": 10,
+    "is_unggulan": true
+  },
+  {
+    "id": 6,
+    "nama": "Es Pisang Ijo",
+    "harga": 15000,
+    "deskripsi": "Es pisang ijo menggunakan pisang erkualitas dan bubur sumsum dari tepung ketan, sirup dan susu  yang enak",
+    "kategori": "Jajanan",
+    "gambar": "/img/products/makan4.jpg",
+    "stok": 8,
+    "is_unggulan": true
+  }
+]
